@@ -1,4 +1,4 @@
-import ReactionBodyPNG from "./images/body.png";
+import ReactionBodyPNG from "https://raw.githubusercontent.com/chunza2542/care-reaction-customizer/master/src/images/body.png";
 import ReactionHandsPNG from "./images/hands.png";
 
 const canvas = document.getElementById("renderer") as HTMLCanvasElement;
